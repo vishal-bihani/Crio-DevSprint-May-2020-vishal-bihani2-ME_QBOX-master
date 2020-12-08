@@ -1,0 +1,3 @@
+The faulty versions in which the file transfer is not possible is version 2 and version 3.
+After initiating the transfer the process terminates abruptly.
+The child process of vsftpd crashes and the ftp connection closes.

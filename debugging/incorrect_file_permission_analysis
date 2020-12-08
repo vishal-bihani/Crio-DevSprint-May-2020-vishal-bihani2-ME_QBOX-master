@@ -1,0 +1,2 @@
+Command used to check the file permissions: <ls -l>
+Permissions for uploaded file in the faulty version: -w-------

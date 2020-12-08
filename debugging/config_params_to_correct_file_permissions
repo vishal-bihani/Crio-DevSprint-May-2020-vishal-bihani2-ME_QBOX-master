@@ -1,0 +1,2 @@
+file_open_mode=0600
+local_umask=022

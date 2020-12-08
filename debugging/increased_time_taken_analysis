@@ -1,0 +1,3 @@
+The fauly version of vsftpd that is version 2 is taking a lot of time to upload the 1 GB file.
+The same is not in the case of small files. It seems that the speed of transfer is dependent on the size of file.
+Large files are usually taking minutes for the transfer.
